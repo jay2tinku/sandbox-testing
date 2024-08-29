@@ -15,7 +15,7 @@ spec:
   type: service
   lifecycle: experimental
   owner: jay2tinku
-  links:
-    - url: https://github.com/jay2tinku/sandbox-testing
-      title: GitHub Repository
-      icon: github
+#  links:
+#    - url: https://github.com/jay2tinku/sandbox-testing
+#      title: GitHub Repository
+#      icon: github
