@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sandbox-testing
+  description: This component represents the sandbox-testing GitHub repository for testing purposes.
+  owner: jay2tinku
+  annotations:
+    github.com/project-slug: jay2tinku/sandbox-testing
+    backstage.io/techdocs-ref: url:https://github.com/jay2tinku/sandbox-testing/docs
+spec:
+  type: service
+  lifecycle: experimental
+  owner: jay2tinku
+  links:
+    - url: https://github.com/jay2tinku/sandbox-testing
+      title: GitHub Repository
+      icon: github
