@@ -7,6 +7,11 @@ metadata:
   annotations:
     github.com/project-slug: jay2tinku/sandbox-testing
     backstage.io/techdocs-ref: url:https://github.com/jay2tinku/sandbox-testing/docs
+    backstage.io/github-repo: https://github.com/jay2tinku/sandbox-testing
+    github.com/project-slug: jay2tinku/sandbox-testing
+    github.com/commits: https://github.com/jay2tinku/sandbox-testing/commits/main
+    github.com/pull-requests: https://github.com/jay2tinku/sandbox-testing/pulls
+    github.com/issues: https://github.com/jay2tinku/sandbox-testing/issues
 spec:
   type: service
   lifecycle: experimental
